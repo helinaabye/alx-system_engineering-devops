@@ -1,2 +1,2 @@
-#!/bin/bash
-mv [[:upper:]]* /temp/u
+#dif!/bin/bash
+mv ./[[:upper:]]* /temp/u
